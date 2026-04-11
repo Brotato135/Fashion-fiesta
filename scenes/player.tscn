@@ -56,5 +56,3 @@ frame_progress = 0.89672893
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1824359451]
 position = Vector2(0, -6)
 shape = SubResource("CircleShape2D_fjrip")
-
-[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=356523399]
